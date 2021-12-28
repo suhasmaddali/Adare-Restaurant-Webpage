@@ -9,5 +9,6 @@ __Note:__ The website design was implemented with the help of this udemy course 
 
 <img src = "https://github.com/suhasmaddali/Adare-Restaurant-Webpage/blob/main/images/restaurant%20image.jpg"/>
 
+## Summary
 
 In the webpage, one would be able to book reservation for the food. Furthermore, they are also able to see the exact location provided by Google API. 
