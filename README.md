@@ -45,4 +45,6 @@ This is for the Washington Bike Demand Prediction repository. But the same steps
 
 7. Finally, just click on the .html file present in the folder to take a look at the website design. 
 
-That's it, you should be able to read the code now. Thanks. 
+That's it. Thanks a lot for reading. 
+
+
