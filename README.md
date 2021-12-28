@@ -11,4 +11,4 @@ __Note:__ The website design was implemented with the help of this udemy course 
 
 ## Summary
 
-In the webpage, one would be able to book reservation for the food. Furthermore, they are also able to see the exact location provided by Google API. 
+In the webpage, one would be able to book reservation for the food. Furthermore, they are also able to see the exact location provided by Google API. By taking a look at the various cascading styles, a website is designed so that users are able to book a reservation along with get the exact location of the restaurant. 
