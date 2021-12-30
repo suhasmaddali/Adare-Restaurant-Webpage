@@ -11,7 +11,7 @@ __Note:__ The website design was implemented with the help of this udemy course 
 
 ## Summary
 
-In the webpage, one would be able to book reservation for the food. Furthermore, they are also able to see the exact location provided by Google API. 
+In the webpage, one would be able to book reservation for the food. Furthermore, they are also able to see the exact location provided by Google API. We get to use the custom map from Google Maps that helps to know the exact location of the restaurant. 
 
 
 ## 👉 Directions to download the repository and run the notebook 
