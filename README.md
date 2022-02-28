@@ -11,6 +11,8 @@ __Note:__ The website design was implemented with the help of this udemy course 
 + Note: The website design was implemented with the help of the udemy course mentioend below. 
 
 + "The best course for learning the basics of HTML5 and CSS3 from scratch. Including 5 projects, perfect for beginners"
+
++ Link: https://cognizant.udemy.com/course/responsive-web-design-tutorial-course-html5-css3-bootstrap/learn/lecture/15472206#overview
 ```
 
 <img src = "https://github.com/suhasmaddali/Adare-Restaurant-Webpage/blob/main/images/restaurant%20image.jpg"/>
