@@ -5,8 +5,6 @@
 
 Feel free to click on the __badges__ to get an idea about the technologies and tools used in the process of creating and designing webpages. 
 
-__Note:__ The website design was implemented with the help of this udemy course - [The best course for learning the basics of HTML5 and CSS3 from scratch. Including 5 projects, perfect for beginnners](https://cognizant.udemy.com/course/responsive-web-design-tutorial-course-html5-css3-bootstrap/learn/lecture/15472206#overview) 
-
 ```diff
 + Note: The website design was implemented thanks to the course which is listed below. 
 
