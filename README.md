@@ -17,7 +17,7 @@ Feel free to click on the __badges__ to get an idea about the technologies and t
 
 ## Summary
 
-In the webpage, one would be able to book reservation for the food. Furthermore, they are also able to see the exact location provided by Google API. We get to use the custom map from Google Maps that helps to know the exact location of the restaurant. 
+In the webpage, one would be able to book reservation for the food. Furthermore, they are also able to see the exact location provided by __Google API__. We get to use the custom map from __Google Maps__ that helps to know the exact location of the restaurant. 
 
 
 ## 👉 Directions to download the repository and run the notebook 
