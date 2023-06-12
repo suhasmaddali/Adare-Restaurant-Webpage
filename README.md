@@ -16,7 +16,7 @@
 
 In the webpage, one would be able to book reservation for the food. Furthermore, they are also able to see the exact location provided by __Google API__. We get to use the custom map from __Google Maps__ that helps to know the exact location of the restaurant. 
 
-* The webpage allows users to easily book reservations for food, streamlining the process for a hassle-free dining experience.
+* The webpage allows users to easily book **reservations** for food, streamlining the process for a hassle-free dining experience.
 * Users can view the precise location of the restaurant thanks to the integration of Google API, ensuring they can easily navigate to the desired destination.
 * The webpage features a customized map from Google Maps, offering a visually appealing and user-friendly way to identify the exact location of the restaurant.
 
